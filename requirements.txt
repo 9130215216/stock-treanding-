@@ -9,4 +9,4 @@ pandas
 streamlit_option_menu
 prophet
 plotly
-scikit learn
+scikit-learn
