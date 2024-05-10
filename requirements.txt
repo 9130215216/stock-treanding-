@@ -1,0 +1,12 @@
+streamlit
+keras.models
+datetime
+yfinance
+pandas_datareader
+matplotlib.pyplot
+numpy
+pandas
+streamlit_option_menu
+sklearn
+prophet
+plotly
