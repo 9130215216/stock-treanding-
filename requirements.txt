@@ -7,6 +7,6 @@ matplotlib
 numpy
 pandas
 streamlit_option_menu
-sklearn
 prophet
 plotly
+scikit learn
